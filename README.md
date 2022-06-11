@@ -7,7 +7,7 @@
 Brief summary of the repo
 
 
-## REPOSITORY STRUCTURE
+## REPOSITORY STRUCTURE (maybe useful)
 
 Run this script in bash in the repository folder and paste the output:
 
