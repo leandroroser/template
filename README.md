@@ -28,10 +28,16 @@ Describe how to use this repo
 
 Briefly describe origin of the data and how it was collected. Links if necessary. Include the data within this repo, if needed in a separate folder in relation the main programs.
 
-### DATA STRUCTURE
+### DATA STRUCTURE. 
 
 - Col1 : description of column - data type (str). If needed example, such as #AB424C
 - Coln ....
 
+In case that the # columns is too large, this could be included as metadata in a yaml file with a link in this section:
 
-
+col1:
+   description:
+   type:
+col2:
+   description:
+   type:
