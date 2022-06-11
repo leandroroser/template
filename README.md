@@ -8,7 +8,7 @@ Brief summary of the repo
 
 ## USAGE
 
-Describe how to use this repo. Where the main program folder and the data folder is located, etc.
+Describe how to use this repo. Where the main program folder and the data folder are located, etc.
 
 ## SAMPLE DATA USED IN THE PUBLICATION
 
