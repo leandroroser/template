@@ -14,7 +14,7 @@ Describe how to use this repo. Where the main program folder and the data folder
 
 Location of the file in the repo. Briefly describe origin of the data and how it was collected. Links if necessary. Include the data within this repo, if needed in a separate folder in relation the main programs.
 
-### DATA STRUCTURE. 
+### DATA STRUCTURE
 
 - Col1 : description of column - data type (str). If needed example, such as #AB424C
 - Coln ....
