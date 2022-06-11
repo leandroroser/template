@@ -35,9 +35,9 @@ Briefly describe origin of the data and how it was collected. Links if necessary
 
 In case that the # columns is too large, this could be included as metadata in a yaml file with a link in this section:
 
-col1:
-   description:
-   type:
-col2:
-   description:
-   type:
+- col1:
+-   description:
+=   type:
+- col2:
+-   description:
+-   type:
