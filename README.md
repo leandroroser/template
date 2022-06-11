@@ -6,27 +6,13 @@
 
 Brief summary of the repo
 
-
-## REPOSITORY STRUCTURE (this field maybe is useful to visualize the repo)
-
-Run this script in bash in the repository folder and paste the output:
-
-#!/bin/bash
-
-#File: tree-md
-
-tree=$(tree -tf --noreport -I '*~' --charset ascii $1 |
-       sed -e 's/| \+/  /g' -e 's/[|`]-\+/ */g' -e 's:\(* \)\(\(.*/\)\([^/]\+\)\):\1[\4](\2):g')
-
-printf "# Project tree\n\n${tree}"
-
 ## USAGE
 
-Describe how to use this repo
+Describe how to use this repo. Where the main program folder and the data folder is located, etc.
 
 ## SAMPLE DATA USED IN THE PUBLICATION
 
-Briefly describe origin of the data and how it was collected. Links if necessary. Include the data within this repo, if needed in a separate folder in relation the main programs.
+Location of the file in the repo. Briefly describe origin of the data and how it was collected. Links if necessary. Include the data within this repo, if needed in a separate folder in relation the main programs.
 
 ### DATA STRUCTURE. 
 
