@@ -9,7 +9,7 @@ Brief summary of the repo
 
 ## REPOSITORY STRUCTURE
 
-Run this command in bash in the repository folder and paste the output:
+Run this script in bash in the repository folder and paste the output:
 
 #!/bin/bash
 
