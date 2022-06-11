@@ -26,7 +26,7 @@ Describe how to use this repo
 
 ## SAMPLE DATA USED IN THE PUBLICATION
 
-Briefly describe origin of the data and how it was collected. Links if necessary.
+Briefly describe origin of the data and how it was collected. Links if necessary. Include the data within this repo, if needed in a separate folder in relation the main programs.
 
 ### DATA STRUCTURE
 
