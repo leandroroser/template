@@ -4,7 +4,7 @@
 
 **PUBLICATION URL**
 
-Brief summary of the repo
+Brief summary of the repo 
 
 ## USAGE
 
